@@ -30,6 +30,10 @@ Real-Time Data Augmentations like
 were all carried out to make the model learn better
 Now coming to the different model architectures used, I used the following architectures -
 
+
+METRIC SCORE
+Kappa Score:.94
+
 *Resnet34
 *Resnet52
 *Resnet101
